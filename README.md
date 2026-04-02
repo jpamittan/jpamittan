@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Jays, a software engineer 👋🏼:
-🔭 I have my own [webpage](https://www.jpamittan.com)<br>👨🏼‍🎓 Studied computer science at PUP and Master in Information Techonology at APC<br>👨🏼‍💻 Working as a software engineer since 2011
+🔭 I have my own [webpage](https://jpamittan.com)<br>👨🏼‍🎓 Studied computer science at PUP and Master in Information Techonology at APC<br>👨🏼‍💻 Working as a software engineer since 2011
 
 
 # 💻 Tech Stack:
