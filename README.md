@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jays, a software engineer 👋🏼:
 
-🔭 I have my own [webpage](https://jpamittan.com)<br>👨🏼‍🎓 Studied computer science at Polytechnic University of the Philippines (PUP) and Master in Information Techonology at Asia Pacific College (APC)<br>👨🏼‍💻 Working as a software engineer since 2011
+🔭 I have my own [webpage](https://jpamittan.com)<br>👨🏼‍🎓 Studied Computer Science at Polytechnic University of the Philippines (PUP)<br>👨🏼‍🎓 Finished postgraduate education on Master in Information Techonology at Asia Pacific College (APC)<br>👨🏼‍💻 Working as a software engineer since 2011
 
 # 💻 Tech Stack:
 
