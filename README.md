@@ -1,7 +1,3 @@
-# Hi there 👋, I'm Jays, a software engineer 👋🏼:
-
-🔭 I have my own [webpage](https://jpamittan.com)<br>👨🏼‍🎓 Studied Computer Science at Polytechnic University of the Philippines (PUP)<br>👨🏼‍🎓 Finished postgraduate education on Master in Information Techonology at Asia Pacific College (APC)<br>👨🏼‍💻 Working as a software engineer since 2011
-
 # 👋 Hi, I'm Jayson Pamittan
 
 ### 🚀 Senior Software Engineer | Full-Stack | AI-Assisted Development
@@ -9,8 +5,6 @@
 I’m a **Senior Software Engineer** focused on building modern, scalable, and maintainable software using a combination of proven engineering practices and **AI-native development techniques**.
 
 I work across the full stack — from frontend applications and APIs to cloud infrastructure, automation, and increasingly **LLM-powered software development workflows**.
-
-🔭 Checkout my [portfolio](https://jpamittan.com)
 
 ---
 
@@ -81,10 +75,19 @@ to build software that is **faster to develop, easier to maintain, and built to 
 ```text
 AI & LLM Engineering       ████████████████████
 Full-Stack Development     ████████████████████
-Cloud & AWS                 ██████████████████░░
+Cloud & AWS                ██████████████████░░
 Software Architecture      ██████████████████░░
 Workflow Automation        █████████████████░░░
 Developer Productivity     ████████████████████
+```
+
+🤝 Let's Build Something
+
+💡 Interested in AI-native software development, LLMs, automation, cloud architecture, and modern engineering practices.
+
+⭐ Feel free to explore my repositories and projects.
+
+🔭 Checkout my [portfolio](https://jpamittan.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
