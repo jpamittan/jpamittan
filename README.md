@@ -2,9 +2,89 @@
 
 🔭 I have my own [webpage](https://jpamittan.com)<br>👨🏼‍🎓 Studied Computer Science at Polytechnic University of the Philippines (PUP)<br>👨🏼‍🎓 Finished postgraduate education on Master in Information Techonology at Asia Pacific College (APC)<br>👨🏼‍💻 Working as a software engineer since 2011
 
-# 💻 Tech Stack:
+# 👋 Hi, I'm Jayson Pamittan
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23239120.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-%230059A9.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-5C2D91?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-9999FF.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Quasar](https://img.shields.io/badge/quasar-%2331A8FF.svg?style=for-the-badge&logo=quasar&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+### 🚀 Senior Software Engineer | Full-Stack | AI-Assisted Development
+
+I’m a **Senior Software Engineer** focused on building modern, scalable, and maintainable software using a combination of proven engineering practices and **AI-native development techniques**.
+
+I work across the full stack — from frontend applications and APIs to cloud infrastructure, automation, and increasingly **LLM-powered software development workflows**.
+
+🔭 Checkout my [portfolio](https://jpamittan.com)
+
+---
+
+## 🧠 AI & Modern Software Engineering
+
+🤖 **AI-Assisted Software Development**  
+🧠 **LLMs & AI Coding Tools**  
+📐 **Spec-Driven Development (SDD)**  
+⚡ **AI-Native Development Workflows**  
+🔄 **Automated Development & Business Workflows**  
+🧪 **AI-assisted Testing & Code Quality**
+
+I leverage **LLMs and AI coding tools** throughout the software development lifecycle — from requirements and specification to implementation, testing, refactoring, and documentation.
+
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
+
+### ⚙️ Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ☁️ Cloud & Automation
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+## 🏗️ What I Build
+
+- 🌐 Modern **web applications**
+- 🔌 Scalable **REST APIs & backend services**
+- 📱 **PWA & hybrid mobile applications**
+- ☁️ **Cloud-based systems on AWS**
+- 🔄 **Workflow automation with n8n**
+- 🤖 **LLM-powered applications and development workflows**
+- 📐 Software developed using **Spec-Driven Development**
+- 🧩 Maintainable and scalable **full-stack architectures**
+
+---
+
+## 🔥 Engineering Philosophy
+
+> **"Build with specifications. Develop with intelligence. Automate wherever possible."**
+
+I believe modern software engineering is evolving from simply writing code to **designing systems, defining clear specifications, and leveraging AI to accelerate the entire development process.**
+
+My goal is to combine:
+
+**🧑‍💻 Software Engineering + 🤖 AI/LLMs + 📐 Specifications + ☁️ Cloud + ⚡ Automation**
+
+to build software that is **faster to develop, easier to maintain, and built to scale.**
+
+---
+
+## 📊 Areas of Interest
+
+```text
+AI & LLM Engineering       ████████████████████
+Full-Stack Development     ████████████████████
+Cloud & AWS                 ██████████████████░░
+Software Architecture      ██████████████████░░
+Workflow Automation        █████████████████░░░
+Developer Productivity     ████████████████████
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -23,3 +103,4 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jpamittan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+```
